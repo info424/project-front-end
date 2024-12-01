@@ -5,16 +5,17 @@
 
 .App-header {
   background-color: #282c34;
-  padding: 20px;
+  padding: 5px; /* Reduced padding */
   color: white;
+  min-height: 100px; /* Reduced height */
 }
 
 .search-bar {
-  margin: 20px 0;
+  margin: 5px 0; /* Reduced margin */
 }
 
 .search-bar input {
-  padding: 10px;
+  padding: 8px; /* Slightly reduced padding */
   width: 300px;
   font-size: 16px;
 }
